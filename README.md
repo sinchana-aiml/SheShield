@@ -23,6 +23,13 @@ Built using no-code (blocks)
 ![sending msges](https://github.com/user-attachments/assets/410fce28-52f2-44ba-a00a-f93cf8869142)
 ![msg recieved](https://github.com/user-attachments/assets/ef184456-c52e-4e06-b616-203f0221efba)
 
+  How It Works
+- When user clicks SOS → App fetches live location  
+- Creates Google Maps link  
+- Sends message to all emergency contacts  
+- Message includes latitude, longitude & map  
+
+
 🔗 Live Project / Thunkable Link
 https://x.thunkable.com/projectPage/68a96c559067bb432071d9cb
 
